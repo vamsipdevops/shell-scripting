@@ -1,3 +1,3 @@
 # shell-scripting
 
-sample repo
+sample repository
